@@ -1,0 +1,48 @@
+h3 {
+    font-size: 25px;
+}
+
+p {
+    font-size: 20px;
+}
+#datosPersonales {
+    font-size: 20px;
+}
+
+.title {
+    text-align: center;
+    background-color: lightblue;
+}
+
+li.opcion {
+    font-size: 20px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+
+
+li.objetos {
+    color: blue;
+    font-size: 20px;
+}
+li.bases {
+    color: red;
+    font-size: 20px;
+}
+li.git {
+    color: grey;
+    font-size: 20px;
+}
+li.scrum {
+    color: green;
+    font-size: 20px;
+}
+li.lenguajes {
+    color: violet;
+    font-size: 20px;
+}
+
+
+
