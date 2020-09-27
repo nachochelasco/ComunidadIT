@@ -5,6 +5,7 @@ h3 {
 p {
     font-size: 20px;
 }
+
 #datosPersonales {
     font-size: 20px;
 }
@@ -15,13 +16,32 @@ p {
 }
 
 li.opcion {
-    font-size: 20px;
+    font-size: 25px;
     padding-top: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
     padding-left: 15px;
+    background: moccasin;
+    list-style: none;
+    border-radius: 15px 20px 50px;
+    border-style: ridge;
+
 }
 
+#columna1 {
+    background-color: papayawhip;
+    height: 600px;
+}
+
+#columna2 {
+    background-color: cornflowerblue;
+    height: 600px;
+}
+
+#columna3 {
+    background-color: darkgreen;
+    height: 600px;
+}
 
 li.objetos {
     color: blue;
